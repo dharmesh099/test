@@ -1,0 +1,61 @@
+{
+  "project_info": {
+    "project_number": "110828862414",
+    "project_id": "super-duper-moj"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110828862414:android:4ca0a562987901eb",
+        "android_client_info": {
+          "package_name": "com.sq.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvs9FhzvPwolt7HR_VdaCAIzdU6fBCosE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110828862414:android:213488fdece7ae1f",
+        "android_client_info": {
+          "package_name": "com.gcm.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvs9FhzvPwolt7HR_VdaCAIzdU6fBCosE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
